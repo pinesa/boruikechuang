@@ -1,0 +1,16 @@
+*{margin:0;padding:0;font-family:"微软雅黑";list-style-type: none}
+body{height:3000px;}
+img{border:0}
+.header{width:100%;height:105px;}
+.header_inner{width:978px;height:105px;margin:0 auto;}
+.logo{background:url(../images/bor_logo.png) no-repeat;width:200px;height:54px;margin-top:22px;float: left;}
+h1{text-indent: -9999px;}
+.nav{float:right;}
+.nav li{float:left;margin:0 32px 0 31px;font-size:14px;line-height:107px;text-decoration:none}
+.nav a{text-decoration:none;color:#707070}
+.nav  .active {margin:0 40px 0 40px;color:red}
+.nav  .active a{color:#ec741b;}
+.nav a:hover{color:#ec741b;}
+
+.banner{text-align: center;position: relative;width:100%;height:494px;}
+.banner_inner{margin:0 auto;background:url(../images/auto_1041.jpg) 50% 100%;width:100%;height:494px;}
